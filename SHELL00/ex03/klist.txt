@@ -1,0 +1,5 @@
+Credentials cache: API:44DBB158-3332-48E9-83BF-D5E178527BA9
+        Principal: xjegoulh@42LH.FR
+
+  Issued                Expires               Principal
+Jan 16 13:01:11 2023  Jan  17 13:01:11 2023  ecole/42LH.FR@42.FR
