@@ -3,13 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dbelpaum <dbelpaum@student.42.fr>          +#+  +:+       +#+        */
+/*   By: xjegoulh <xjegoulh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/06/29 14:43:00 by dbelpaum          #+#    #+#             */
-/*   Updated: 2021/06/29 18:48:20 by dbelpaum         ###   ########.fr       */
+/*   Created: 2023/01/16 11:20:43 by xjegoulh          #+#    #+#             */
+/*   Updated: 2023/01/16 11:43:17 by xjegoulh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_putchar(char c)

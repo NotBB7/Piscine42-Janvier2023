@@ -1,15 +1,14 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_putnbr.c                                        :+:      :+:    :+:   */
+/*   ft_putnbr.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dbelpaum <dbelpaum@student.42.fr>          +#+  +:+       +#+        */
+/*   By: xjegoulh <xjegoulh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/06/29 16:07:16 by dbelpaum          #+#    #+#             */
-/*   Updated: 2021/06/29 18:53:03 by dbelpaum         ###   ########.fr       */
+/*   Created: 2023/01/16 13:02:45 by xjegoulh          #+#    #+#             */
+/*   Updated: 2023/01/16 13:13:37 by xjegoulh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_putnbr2(int nb, char *t, int nbdigits, int isneg);

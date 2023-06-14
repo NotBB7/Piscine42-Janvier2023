@@ -3,13 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dbelpaum <dbelpaum@student.42.fr>          +#+  +:+       +#+        */
+/*   By: xjegoulh <xjegoulh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/06/29 13:10:49 by dbelpaum          #+#    #+#             */
-/*   Updated: 2021/06/29 18:47:15 by dbelpaum         ###   ########.fr       */
+/*   Created: 2023/01/16 11:15:29 by xjegoulh          #+#    #+#             */
+/*   Updated: 2023/01/16 11:33:34 by xjegoulh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_is_negative(int n)

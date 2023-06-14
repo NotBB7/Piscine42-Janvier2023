@@ -3,13 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_combn.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dbelpaum <dbelpaum@student.42.fr>          +#+  +:+       +#+        */
+/*   By: xjegoulh <xjegoulh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/06/29 17:29:26 by dbelpaum          #+#    #+#             */
-/*   Updated: 2021/07/07 19:13:26 by dbelpaum         ###   ########.fr       */
+/*   Created: 2023/01/16 13:21:43 by xjegoulh          #+#    #+#             */
+/*   Updated: 2023/01/16 13:34:34 by xjegoulh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_runtime(int n, char *tab);
